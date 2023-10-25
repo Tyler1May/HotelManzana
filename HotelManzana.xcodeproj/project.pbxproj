@@ -14,6 +14,7 @@
 		F7F3F1C32AE958FE00828394 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7F3F1C12AE958FE00828394 /* LaunchScreen.storyboard */; };
 		F7F3F1CB2AE959B200828394 /* Registration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F3F1CA2AE959B200828394 /* Registration.swift */; };
 		F7F3F1CD2AE959E200828394 /* RoomType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F3F1CC2AE959E200828394 /* RoomType.swift */; };
+		F7F3F1D02AE95C5400828394 /* AddRegistrationTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F3F1CF2AE95C5400828394 /* AddRegistrationTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F7F3F1C42AE958FE00828394 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7F3F1CA2AE959B200828394 /* Registration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Registration.swift; sourceTree = "<group>"; };
 		F7F3F1CC2AE959E200828394 /* RoomType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomType.swift; sourceTree = "<group>"; };
+		F7F3F1CF2AE95C5400828394 /* AddRegistrationTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRegistrationTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				F7F3F1B62AE958FD00828394 /* AppDelegate.swift */,
 				F7F3F1B82AE958FD00828394 /* SceneDelegate.swift */,
+				F7F3F1CF2AE95C5400828394 /* AddRegistrationTableViewController.swift */,
 				F7F3F1CE2AE95A1F00828394 /* Models */,
 				F7F3F1BC2AE958FD00828394 /* Main.storyboard */,
 				F7F3F1BF2AE958FE00828394 /* Assets.xcassets */,
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F7F3F1CD2AE959E200828394 /* RoomType.swift in Sources */,
+				F7F3F1D02AE95C5400828394 /* AddRegistrationTableViewController.swift in Sources */,
 				F7F3F1B72AE958FD00828394 /* AppDelegate.swift in Sources */,
 				F7F3F1CB2AE959B200828394 /* Registration.swift in Sources */,
 				F7F3F1B92AE958FD00828394 /* SceneDelegate.swift in Sources */,
